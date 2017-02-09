@@ -1,0 +1,5 @@
+ <object width="903" height="191" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000">
+             <param value="flash/brandingboard.swf?xmlURL=flash/xixi.xml&amp;timerDelay=5" name="movie">
+             <param value="high" name="quality">
+             <embed width="903" height="191" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" quality="high" src="flash/brandingboard.swf?xmlURL=flash/xixi.xml&amp;timerDelay=5">
+            </object>

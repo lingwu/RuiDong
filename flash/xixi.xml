@@ -1,0 +1,15 @@
+﻿
+<?xml version="1.0" encoding="utf-8"?>
+<GamePackBrand>
+
+		<brand id='1'><brandtitle>魔方</brandtitle><thumb>flash/images/01.jpg</thumb><swf>flash/images/1.jpg</swf><link>http://www.lanrentuku.com/</link><target>_blank</target></brand>
+	
+		<brand id='2'><brandtitle>飞扬</brandtitle><thumb>flash/images/02.jpg</thumb><swf>flash/images/2.jpg</swf><link>http://www.lanrentuku.com/</link><target>_blank</target></brand>
+	
+		<brand id='3'><brandtitle>长城</brandtitle><thumb>flash/images/03.jpg</thumb><swf>flash/images/3.jpg</swf><link>http://www.lanrentuku.com/</link><target>_blank</target></brand>
+	
+		<brand id='4'><brandtitle>红球</brandtitle><thumb>flash/images/04.jpg</thumb><swf>flash/images/4.jpg</swf><link>http://www.lanrentuku.com/</link><target>_blank</target></brand>
+	
+		<brand id='5'><brandtitle>气球</brandtitle><thumb>flash/images/05.jpg</thumb><swf>flash/images/5.jpg</swf><link>http://www.lanrentuku.com/</link><target>_blank</target></brand>
+	
+</GamePackBrand>
